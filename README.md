@@ -4,7 +4,9 @@
 Tenzies is a simple dice game built with **React**. The goal is to get all ten dice to show the same number. You can freeze a die at its current number by clicking on it, preventing it from being rolled again. You win the game when all ten dice show the same number.
 
 ## Gameplay
+![](https://github.com/florinmitrana/TenziesDice-Game/blob/main/2024-07-22%2013.12.27.gif)
 
+![](https://github.com/florinmitrana/TenziesDice-Game/blob/main/2024-07-22%2013.13.01.gif)
 
 
 
